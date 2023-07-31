@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Camera Calibration.iml" filepath="$PROJECT_DIR$/.idea/Camera Calibration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Cat_Dog_Classify/.idea/Cat_Dog_Classify.iml" filepath="$PROJECT_DIR$/../Cat_Dog_Classify/.idea/Cat_Dog_Classify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Laser/.idea/Laser.iml" filepath="$PROJECT_DIR$/../Laser/.idea/Laser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tea_Classify/.idea/Tea_Classify.iml" filepath="$PROJECT_DIR$/../Tea_Classify/.idea/Tea_Classify.iml" />
+    </modules>
+  </component>
+</project>
